@@ -12,3 +12,13 @@ sky:
     access-key-id: LTAI5t7tTU2wTdDYiZ39USW5
     access-key-secret: lVEsvJDQZYfXbbxRYVyKZOaP8lP69J
     bucket-name: candice-bucket
+
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 0
+
+  wechat:
+    appid: wx76a20c840757c17d
+    secret: b78723b2d105ded0f840ed3869c50521
